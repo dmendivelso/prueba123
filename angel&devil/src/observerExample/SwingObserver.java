@@ -21,7 +21,7 @@ public class SwingObserver {
 	public void go() {
 		
 		
-		frame = new JFrame("Prueba123");
+		frame = new JFrame("Prueba123 asd");
 		JButton button = new JButton("Should I do it");
 		Font fuente=new Font("Monospaced", Font.BOLD, 36);
 		button.setFont(fuente);
